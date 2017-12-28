@@ -1,3 +1,3 @@
 # test_repository
 test_repository_try_1
-ADMIN
+master
